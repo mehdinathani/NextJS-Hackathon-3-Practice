@@ -1,6 +1,6 @@
 'use client'
 import { Rating } from 'react-simple-star-rating'
-import { InlinePreview } from 'sanity'
+
 
 interface Props {
     rating: number
